@@ -11,8 +11,8 @@ A beautiful and responsive Flutter app showcasing clean UI components and layout
 
 ## 📸 Screenshots
 
-| Home Page | UI Component |
-| <img src="assets/screenshots/screen1.png" width="300"/> | <img src="assets/screenshots/screen2.png" width="300"/> 
+| Log In | SignUp |
+| <img src="lib/screen_shots/Screenshot_20250625_150351.jpg" width="300"/> | <img src="lib/screen_shots/Screenshot_20250625_150341.jpg" width="300"/> 
 
 ## 🛠️ Tech Stack
 Flutter – Cross-platform UI toolkit
