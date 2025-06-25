@@ -11,7 +11,6 @@ A beautiful and responsive Flutter app showcasing clean UI components and layout
 
 ## 📸 Screenshots
 
-| Log In | SignUp |
 | <img src="lib/screen_shots/Screenshot_20250625_150351.jpg" width="300"/> | <img src="lib/screen_shots/Screenshot_20250625_150341.jpg" width="300"/> 
 
 ## 🛠️ Tech Stack
